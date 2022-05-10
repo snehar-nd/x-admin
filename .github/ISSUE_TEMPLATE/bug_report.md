@@ -4,6 +4,9 @@ about: Create a report to help us improve
 labels: bug
 ---
 
+<!-- Before filling this issue, please read the wiki (https://github.com/Samagra-Development/x-admin/wiki)
+and search if the bug do not already exists in the issues (https://github.com/Samagra-Development/x-admin/issues). -->
+
 ### Description
 
 Please describe your issue in few words here.
@@ -23,5 +26,4 @@ If applicable, add screenshots to help explain your problem.
 * Browser [e.g. chrome, safari]:
 
 ### Logs
- 
 Any logs (if any) generated in
